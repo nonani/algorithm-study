@@ -1,3 +1,18 @@
+/*
+## ✏️ [프로그래머스] 귤 고르기
+📶 문제 난이도
+Lv. 2
+
+🔗 문제 링크
+https://school.programmers.co.kr/learn/courses/30/lessons/138476
+
+⏱️ 풀이 시간
+1시간
+
+✅ 풀이 근거
+귤 크기별 개수를 세고, 개수가 많은 크기부터 선택하면 같은 k개를 고르면서 필요한 크기 종류 수를 최소화할 수 있다.
+*/
+
 import java.util.*;
 
 class Orange {
